@@ -1,0 +1,1 @@
+# Hackintosh-MSI-Z690-A-WIFI-DDR4-Intel-i5-12600K-OpenCoreEFI
